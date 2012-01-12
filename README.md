@@ -4,6 +4,4 @@
 
 ## Background
 
-I recently decided to migrate a codebase I've been working on from PHP to Node.js. Normally I would try and just do a wholesale rewrite but since this project is pretty extnesive, we need to do our upgrades incrementally. 
-
-The idea is to write all our new features using Express + Backbone.js and proxy requests the Express application can't handle to Apache/PHP. This will allow us to continue serving the existing features and start building all our new features using Node.js (along with migrating features as we have time).
+I recently decided to migrate a codebase I've been working on from PHP to Node.js. Normally I would try and just do a wholesale rewrite but since this project is pretty extnesive, we need to do our upgrades incrementally. The idea is to write all our new features using Express + Backbone.js and proxy requests the Express application can't handle to Apache/PHP. This will allow us to continue serving the existing features and start building all our new features using Node.js (along with migrating features as we have time).
