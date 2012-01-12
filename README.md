@@ -1,6 +1,6 @@
 # Sharing sessions between Node.js and PHP
 
-TL;DR I'm working on a site to incrimentally migrate the codebase from PHP to Node.js. This is a working of how to share session between PHP and Node.js using Redis as the persitant store.
+**TL;DR** I'm working on a site to incrimentally migrate the codebase from PHP to Node.js. This is a working of how to share session between PHP and Node.js using Redis as the persitant store.
 
 ## Background
 
