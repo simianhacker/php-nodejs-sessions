@@ -1,0 +1,3 @@
+[submodule "php/includes/predis"]
+	path = php/includes/predis
+	url = git://github.com/nrk/predis.git
